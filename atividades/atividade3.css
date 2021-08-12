@@ -1,0 +1,16 @@
+#primeiro::first-letter {
+    color: red;
+    font-size: 50px;
+}
+a:link {
+    color: darkgreen;
+}
+a:visited {
+    color: brown;
+}
+a:hover {
+    background-color: yellow;
+}
+a:active {
+    color: blue;
+}
